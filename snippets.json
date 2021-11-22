@@ -1,0 +1,7 @@
+{
+    "html": {
+        "snippets": {
+            "SGSC": "section#>div.content-box-*>div.container>div.row>div.col-md-*" 
+        }
+    }
+}

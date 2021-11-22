@@ -1,0 +1,49 @@
+photos
+https://unsplash.com/
+https://www.pexels.com/
+https://picjumbo.com/
+https://gratisography.com/
+
+Filtering (Jquery plugin)
+https://isotope.metafizzy.co/filtering.html
+
+color panel
+https://www.color-blindness.com/color-name-hue/
+https://coolors.co/6f2dbd-a663cc-b298dc-b8d0eb-b9faf8
+
+font-awesome
+https://fontawesome.com/v4.7/icon/laptop
+Master of Engineering Program in Engineering Technology (no)
+https://set.ait.ac.th/programs/information-and-communications-technologies/computer-science-cs/
+
+https://cdnjs.com/libraries/font-awesome
+
+loading
+http://loading.io/
+
+49
+vertical 
+https://vanseodesign.com/css/vertical-centering/
+
+remote jobs
+https://cleverjobs.net/remote/front-end-developer-vuejs-at-caresend-3lkbd
+
+jquery library
+http://imakewebthings.com/waypoints/
+
+change rgb to hex
+https://www.webpagefx.com/web-design/hex-to-rgb/
+
+Jquery plugin (to do animated when only scholl)
+http://imakewebthings.com/waypoints/
+cv
+https://jofibo.com/resumes/e70e968c-f7a9-4051-9326-48579eb4c49b/edit/
+
+https://owlcarousel2.github.io/OwlCarousel2/index.html
+
+Jquery plugin (Tab )
+http://jellekralt.github.io/Responsive-Tabs/
+personal site
+1:44
+
+coverr.co
